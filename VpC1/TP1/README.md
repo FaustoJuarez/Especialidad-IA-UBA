@@ -22,4 +22,5 @@ Este proyecto se divide en dos partes, abordando diferentes técnicas de procesa
    Seleccionar un número adecuado de bins y graficar el histograma de las imágenes. Comparar los histogramas entre sí y discutir las observaciones. Considerar la utilidad de los histogramas como características (features) en un modelo de clasificación o detección de imágenes.
 
 3. **Segmentación de la Imagen**  
-   Para
+   Para la imagen `segmentacion.png`, analizar el histograma de los canales RGB. Segmentar elementos presentes en la imagen (agua, cielo, tierra) y mostrar, aplicando máscaras, las regiones segmentadas en imágenes separadas.
+
