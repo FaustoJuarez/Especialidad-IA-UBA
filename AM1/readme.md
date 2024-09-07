@@ -1,3 +1,4 @@
+## Propuesta de Investigación: Tasa de abandono (Churn)
 1. #### **Objetivo**:
    Identificar el modelo que mejor se ajuste a los datos y ofrezca la mayor capacidad predictiva para detectar a los clientes con mayor probabilidad de darse de baja (churn) del servicio proporcionado por la empresa.
 
